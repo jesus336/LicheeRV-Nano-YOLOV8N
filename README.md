@@ -3,7 +3,7 @@
 
 - Kevin Vargas
 - Christian Martinez
-- Jesus Lopez
+- Jesus Lopez trigozo
 
 <p align="center">
   <img src="images/funcionamiento.gif" alt="Real-time Object Detection in Action" width="75%">
